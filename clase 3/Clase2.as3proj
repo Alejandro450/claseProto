@@ -15,7 +15,7 @@
   </output>
   <!-- Other classes to be compiled into your SWF -->
   <classpaths>
-    <class path="C:\Users\Alumno-J\Desktop\gamua\Gamua-Starling-Framework-110c2a5\starling\src" />
+    <class path="..\..\..\gamua\Gamua-Starling-Framework-110c2a5\starling\src" />
   </classpaths>
   <!-- Build options -->
   <build>
